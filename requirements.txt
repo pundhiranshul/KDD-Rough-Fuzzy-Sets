@@ -5,3 +5,4 @@ scikit-fuzzy
 kneed
 matplotlib
 seaborn
+openpyxl
